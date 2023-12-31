@@ -9,7 +9,7 @@
 
 #### Microsoft Teams details
 
-A Team for this course (within IISc) named Algebraic Topology 2024 has been created. Anyone from IISc can also join using the Team code `znr3hi8`. Assignments will be submitted through Teams.
+A Team for this course (within IISc) named Algebraic Topology 2024 has been created. Anyone from IISc can also join using the Team code `znr3hi8`.
 
 There are Teams apps available for Windows, Linux (Debian/Ubuntu and Redhat), Mac, Android and iOS. I would encourage using the Teams chat to ask questions whenever needed.
 
